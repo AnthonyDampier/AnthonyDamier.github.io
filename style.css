@@ -2,10 +2,12 @@ body {
   background-color: #2E393F;
   color: #ECECEA;
   font-family: consolas;
-  width: 550px;
+  width: 800px;
   border: 15px solid ;
-  padding: 20px;
+  padding: 50px;
   margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 .header1 {
   text-align: center;
